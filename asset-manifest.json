@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/surfergirlart/static/css/main.b299b59f.css",
+    "main.js": "/surfergirlart/static/js/main.3c39639c.js",
+    "static/js/453.7e181bfb.chunk.js": "/surfergirlart/static/js/453.7e181bfb.chunk.js",
+    "index.html": "/surfergirlart/index.html",
+    "main.b299b59f.css.map": "/surfergirlart/static/css/main.b299b59f.css.map",
+    "main.3c39639c.js.map": "/surfergirlart/static/js/main.3c39639c.js.map",
+    "453.7e181bfb.chunk.js.map": "/surfergirlart/static/js/453.7e181bfb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b299b59f.css",
+    "static/js/main.3c39639c.js"
+  ]
+}
